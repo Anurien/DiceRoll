@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
 
         // TODO (02) Use findViewById to get a reference to the button
         val boton: Button = findViewById(R.id.button1)
-        boton.setOnclickListener { Toast.makeText(this, "button click", Toast.LENGTH_SHORT).show() }
+        boton.setOnClickListener({ Toast.makeText(this, "button click", Toast.LENGTH_SHORT).show() })
         // and assign it to an immutable variable called rollButton
 
         // TODO (03) set the OnClickListener for the button
