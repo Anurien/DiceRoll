@@ -8,5 +8,5 @@ Consiste en pulsar un botón para lanzar un dado, cada vez que lo pulsas aparece
 
 La aplicación también tiene modo landscape
 
-![ScreenShot1](screenshots/dice.png) ![ScreenShot2](screenshots/dice2.jpg)
+![ScreenShot1](screenshots/dice.png) ![ScreenShot2](screenshots/dice2.png)
 
